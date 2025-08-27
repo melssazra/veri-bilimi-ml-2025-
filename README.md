@@ -1,16 +1,16 @@
 # veri-bilimi-ml-2025-
-# 📧 Spam Sınıflandırma (Spam Detection)
+#  Spam Sınıflandırma (Spam Detection)
 
 Bu proje, makine öğrenmesi kullanarak e-postaları **spam** ve **normal** olarak sınıflandırmayı amaçlamaktadır.  
 
-## 🚀 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 - Python
 - Pandas, Numpy
 - Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## 📂 Proje Adımları
+## Proje Adımları
 1. **Veri Hazırlama**
    - Verilerin yüklenmesi ve temizlenmesi
    - Tokenization, stopwords temizliği
@@ -21,16 +21,16 @@ Bu proje, makine öğrenmesi kullanarak e-postaları **spam** ve **normal** olar
 4. **Değerlendirme**
    - Accuracy, Precision, Recall, F1-score metrikleri
 
-## 📊 Sonuçlar
+## Sonuçlar
 - Kullanılan model: `Naive Bayes`
 - Test setinde elde edilen doğruluk: **%XX** (notebook içinde görülebilir)
 
-## 🔮 Geliştirme Yol Haritası
+## Geliştirme Yol Haritası
 - Daha geniş veri seti ile deneme
 - SVM, Random Forest gibi farklı modellerin denenmesi
 - Derin öğrenme (LSTM, BERT) ile iyileştirme
 - Flask/Django ile web arayüz geliştirme
 
-## 📌 Notlar
+## Notlar
 Bu proje, **staj kapsamında ML temel kavramlarını öğrenmek** amacıyla hazırlanmıştır.  
 Proje dosyaları: `SpamSiniflandirma.ipynb`
